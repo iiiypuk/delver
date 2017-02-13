@@ -3,7 +3,7 @@
 import json
 
 __author__ = 'Alexander Popov'
-__version__ = '0.1.0'
+__version__ = '1.0.0'
 __license__ = 'Unlicense'
 
 exportData = list()
@@ -14,15 +14,17 @@ def loadStrings():
             jsonData = json.loads(f.read())
 
             for string in jsonData:
-                exportData.append(jsonData[string]['localizedName'])
+                exportData.append('%s\n%s' %
+                                  (string,
+                                   jsonData[string]['localizedName']))
 
     return('Complete!')
 
 
 def saveStrings():
-    with open('result.txt', 'w+', encoding='utf-8') as f:
+    with open('result.txt', 'w+', encoding='utf-8', newline='\n') as f:
             for string in exportData:
-                f.write('%s\n' % string)
+                f.write('%s%s' % (string, '\n' * 3,))
 
     return('Complete!')
 
