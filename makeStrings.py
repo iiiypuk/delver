@@ -35,7 +35,7 @@ def replaceStrings():
             # print(translatedStings[item])
 
         with open('strings.dat', 'w', encoding='utf-8') as f1:
-            json.dump(data, f1)
+            json.dump(data, f1, ensure_ascii=False)
 
 if __name__ == '__main__':
     replaceStrings()
