@@ -137,7 +137,7 @@ char id=1059   x=24    y=96    width=8    height=12    xoffset=0    yoffset=2   
 char id=1060   x=32    y=96    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
 char id=1061   x=40    y=96    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
 char id=1062   x=48    y=96    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
-char id=1063   x=56    y=96    width=8    height=12    xoffset=0    yoffset=5     xadvance=8     page=0  chnl=15
+char id=1063   x=56    y=96    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
 char id=1064   x=64    y=96    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
 char id=1065   x=72    y=96    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
 char id=1066   x=80    y=96    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
@@ -165,8 +165,8 @@ char id=1087   x=120   y=108    width=8    height=12    xoffset=0    yoffset=2  
 char id=1088   x=0     y=120    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
 char id=1089   x=8     y=120    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
 char id=1090   x=16    y=120    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
-char id=1091   x=24    y=120    width=8    height=12    xoffset=0    yoffset=5     xadvance=8     page=0  chnl=15
-char id=1092   x=32    y=120    width=8    height=12    xoffset=0    yoffset=5     xadvance=8     page=0  chnl=15
+char id=1091   x=24    y=120    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
+char id=1092   x=32    y=120    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
 char id=1093   x=40    y=120    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
 char id=1094   x=48    y=120    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
 char id=1095   x=56    y=120    width=8    height=12    xoffset=0    yoffset=2     xadvance=8     page=0  chnl=15
