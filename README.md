@@ -1,9 +1,9 @@
 # Russian language pack for [Delver](http://www.delvergame.com/)
-**Installing**  
-Drop `mods` folder next Delver executable file.  
+**(В процессе)**
+![Delver](https://github.com/iiiypuk/delver-pack-ru-ru/raw/master/logo.png)
 
 # Notice
-Translation progress is not finished. Waiting for release 1.0 :smirk:  
+Перевод ещё не закончен! :smirk:
 
-# Steam Workshop page
-[Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=1748324216)
+[![Подписаться в Steam](https://img.shields.io/badge/Подписаться-Steam-blue?style=for-the-badge)](https://steamcommunity.com/sharedfiles/filedetails/?id=1748324216)
+

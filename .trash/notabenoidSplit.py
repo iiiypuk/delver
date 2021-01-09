@@ -33,3 +33,4 @@ if __name__ == '__main__':
     print('Loading strings...', loadStrings())
     print('Save strings for notabenoid...', saveStrings())
     print('\nComplete!')
+
