@@ -1,5 +1,5 @@
 # Russian language pack for [Delver](http://www.delvergame.com/)
-**(В процессе)**
+**(В процессе)**  
 ![Delver](https://github.com/iiiypuk/delver-pack-ru-ru/raw/master/logo.png)
 
 # Notice

@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 
+import sys
 import json
 
 __author__ = 'Alexander Popov'
-__version__ = '1.0.0'
+__version__ = '2.0.0'
 __license__ = 'Unlicense'
 
 exportData = list()
 
 
-def loadStrings():
-    with open('strings.dat', 'r', encoding='utf-8') as f:
+def loadStrings(file_path):
+###  ###
+    with open(file_path, 'r', encoding='utf-8') as f:
             jsonData = json.loads(f.read())
 
             for string in jsonData:
@@ -30,7 +32,9 @@ def saveStrings():
     return('Complete!')
 
 if __name__ == '__main__':
-    print('Loading strings...', loadStrings())
+    file_path = sys.argv[1]
+    
+    print('Loading strings...', loadStrings(file_path))
     print('Save strings for notabenoid...', saveStrings())
     print('\nComplete!')
 
