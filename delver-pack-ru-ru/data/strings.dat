@@ -1,37 +1,37 @@
 {
     "screens.SplashScreen.pressKeyToStart": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Press any key to start",
+        "localizedName": "Нажмите любую клавишу",
         "comment": "Prompt shown once at the start of the game."
     },
     "screens.MainMenuScreen.playButton": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Play",
+        "localizedName": "Играть",
         "comment": "Text for the play button. This will start a new game."
     },
     "screens.MainMenuScreen.cancelButton": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Cancel",
+        "localizedName": "Отменить",
         "comment": "Text for the cancel button."
     },
     "screens.MainMenuScreen.eraseButton": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Erase",
+        "localizedName": "Стереть",
         "comment": "Text for the erase button, which will delete the player's save game."
     },
     "screens.MainMenuScreen.optionsButton": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Options",
+        "localizedName": "Настройки",
         "comment": "Text for the options button, which will open the options menu."
     },
     "screens.MainMenuScreen.selectSaveSlot": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Select Save Slot",
+        "localizedName": "Выберите слот сохранениия",
         "comment": "Text prompt indicated the user should click a save slot."
     },
     "screens.MainMenuScreen.newGameSaveSlot": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "New Game",
+        "localizedName": "Новая игра",
         "comment": "Text shown on a save slot when the slot is empty."
     },
     "screens.MainMenuScreen.errorSaveSlot": {
@@ -51,7 +51,7 @@
     },
     "screens.MainMenuScreen.infoSaveSlot": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "{0}   Lvl: {1}",
+        "localizedName": "{0}   Урв: {1}",
         "comment": "Text shown on a save slot. {0} is the name of the dungeon level. {1} is the number of the dungeon level."
     },
     "screens.MainMenuScreen.finishedSaveSlot": {
@@ -66,7 +66,7 @@
     },
     "screens.MainMenuScreen.creatingDungeon": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "CREATING DUNGEON",
+        "localizedName": "СОЗДАНИЕ ПОДЗЕМЕЛЬЯ",
         "comment": "Text shown in the bottom right when starting a new game."
     },
     "screens.MainMenuScreen.loadingSaveSlot": {
@@ -81,17 +81,17 @@
     },
     "screens.OptionsScreen.graphicsMedium": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "MEDIUM",
+        "localizedName": "ЗАГУЗКА",
         "comment": "Text show when the graphics slider is in the middle."
     },
     "screens.OptionsScreen.graphicsHigh": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "HIGH",
+        "localizedName": "ВЫСОКИЕ",
         "comment": "Text shown when the graphics slider is mostly right."
     },
     "screens.OptionsScreen.graphicsUltra": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "ULTRA",
+        "localizedName": "УЛЬТРА",
         "comment": "Text shown when the graphics slider is all the way right."
     },
     "screens.OptionsScreen.postProcessingLabel": {
@@ -111,12 +111,12 @@
    },
     "screens.OptionsScreen.backButton": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Back",
+        "localizedName": "Назад",
         "comment": "Text for back button, which goes to main menu."
     },
     "screens.OptionsScreen.inputButton": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Input",
+        "localizedName": "Ввод",
         "comment": "Text for input button, which opens the input screen."
     },
     "screens.OptionsScreen.headerLabel": {
@@ -126,12 +126,12 @@
     },
     "screens.OptionsScreen.uiSizeLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "UI Size ",
+        "localizedName": "Размер UI ",
         "comment": "Label for UI size slider."
     },
     "screens.OptionsScreen.showHudLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Show Hud ",
+        "localizedName": "Отображать HUD ",
         "comment": "Label for UI size slider."
     },
     "screens.OptionsScreen.headBobLabel": {
@@ -141,17 +141,17 @@
     },
     "screens.OptionsScreen.musicVolumeLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Music Volume",
+        "localizedName": "Громкость музыки",
         "comment": "Label for music volume slider."
     },
     "screens.OptionsScreen.soundVolumeLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Sound Volume",
+        "localizedName": "Громкость звуков",
         "comment": "Label for sound volume slider."
     },
     "screens.OptionsScreen.graphicsDetailLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Graphics Detail",
+        "localizedName": "Детализация графики",
         "comment": "Label for graphics detail slider."
     },
     "screens.OptionsScreen.particleDensityLabel": {
@@ -161,7 +161,7 @@
     },
     "screens.OptionsScreen.shadowsLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Shadows ",
+        "localizedName": "Тени ",
         "comment": "Label for shadow checkbox."
     },
     "screens.OptionsScreen.fovLabel": {
@@ -171,32 +171,32 @@
     },
     "screens.OptionsScreen.fullscreenLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Fullscreen",
+        "localizedName": "Полный экран",
         "comment": "Label for fullscreen toggle."
     },
     "screens.OptionsScreen.uiSizeOffLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "OFF",
+        "localizedName": "ВЫКЛ",
         "comment": "Label for when the ui size is turned down to off."
     },
     "screens.OptionsScreen.readableActions.USE": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "USE",
+        "localizedName": "ВЗАИМОДЕЙСТВИЕ",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.ATTACK": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "ATTACK",
+        "localizedName": "АТТАКА",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.DROP": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "DROP",
+        "localizedName": "ВЫБРОСИТЬ",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.INVENTORY": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "INVENTORY",
+        "localizedName": "ИНВЕНТАРЬ",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.ITEM NEXT": {
@@ -211,17 +211,17 @@
     },
     "screens.OptionsScreen.readableActions.MAP": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "MAP",
+        "localizedName": "КАРТА",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.FORWARD": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "FORWARD",
+        "localizedName": "ВПЕРЁД",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.BACKWARD": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "BACKWARD",
+        "localizedName": "НАЗАД",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.STRAFE LEFT": {
@@ -246,37 +246,37 @@
     },
     "screens.OptionsScreen.readableActions.LOOK UP": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "LOOK UP",
+        "localizedName": "ПОСМОТРЕТЬ НАВЕРХ",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.LOOK DOWN": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "LOOK DOWN",
+        "localizedName": "ПОСМОТРЕТЬ ВНИЗ",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.JUMP": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "JUMP",
+        "localizedName": "ПРЫЖОК",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.PAUSE": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "PAUSE",
+        "localizedName": "ПАУЗА",
         "comment": "Label for key bind action."
     },
     "screens.OptionsInputScreen.backButton": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Back",
+        "localizedName": "Назад",
         "comment": "Text for back button, which goes back to options screen."
     },
     "screens.OptionsInputScreen.keysButton": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Keys",
+        "localizedName": "Клавиши",
         "comment": "Text for the keys button, which opens the key binding screen."
     },
     "screens.OptionsInputScreen.gamepadButton": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": " Gamepad ",
+        "localizedName": " Контроллер ",
         "comment": "Text for the gamepad button, which opens the gamepad binding screen."
     },
     "screens.OptionsInputScreen.headerLabel": {
@@ -326,7 +326,7 @@
     },
     "screens.OptionsKeysScreen.backButton": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Back",
+        "localizedName": "Назад",
         "comment": "Text for back button, which goes back to the input options screen."
     },
     "screens.OptionsKeysScreen.pressKeyLabel": {
@@ -341,7 +341,7 @@
     },
     "screens.LoadingScreen.loadingLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "LOADING",
+        "localizedName": "ЗАГРУЗКА",
         "comment": "Label shown when game is loading."
     },
     "screens.LevelChangeScreen.levelChangeLabel": {
@@ -551,7 +551,7 @@
     },
     "overlays.ShopPause.totalText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Total",
+        "localizedName": "Итого",
         "comment": "Text shown on the shop table for the total gold being spent."
     },
     "overlays.ShopPause.yourGoldText": {
@@ -581,7 +581,7 @@
     },
     "overlays.ShopPause.buyText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Buy",
+        "localizedName": "Купить",
         "comment": "Text shown in the shop table in place of an items price. This indicates the player has selected the item to purchase."
     },
     "entities.Door.stuckText": {
@@ -651,7 +651,7 @@
     },
     "entities.Item.noRoomText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "NO ROOM",
+        "localizedName": "НЕТ МЕСТА В ИНВЕНТАРЕ",
         "comment": "Text show when player attempts to pick up an item when inventory is full."
     },
     "entities.Item.itemNameText": {
@@ -666,12 +666,12 @@
     },
     "entities.Item.modificationInfoSpeedText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Speed",
+        "localizedName": "Скорость",
         "comment": ""
     },
     "entities.Item.modificationInfoHealthText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Health",
+        "localizedName": "Здоровье",
         "comment": ""
     },
     "entities.Item.modificationInfoAgilityText": {
@@ -681,27 +681,27 @@
     },
     "entities.Item.modificationInfoDefenseText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Defense",
+        "localizedName": "Защита",
         "comment": ""
     },
     "entities.Item.modificationInfoMagicText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Magic",
+        "localizedName": "Магия",
         "comment": ""
     },
     "entities.Item.modificationInfoAttackText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Attack",
+        "localizedName": "Аттака",
         "comment": ""
     },
     "entities.Item.modificationInfoKnockbackText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Knockback",
+        "localizedName": "Отбрасывание",
         "comment": ""
     },
     "entities.Item.modificationInfoAttackSpeedText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Attack Speed",
+        "localizedName": "Скорость аттаки",
         "comment": ""
     },
     "entities.Item.modificationInfoMagicResistText": {
@@ -801,7 +801,7 @@
     },
     "gfx.GlRenderer.LevelText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Level: {0}",
+        "localizedName": "Уровень: {0}",
         "comment": "Text shown on the inventory screen for player's level."
     },
     "gfx.GlRenderer.ExperienceText": {
@@ -811,7 +811,7 @@
     },
     "gfx.GlRenderer.GoldText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Gold: {0}",
+        "localizedName": "Золото: {0}",
         "comment": "Text shown on the inventory screen for player's gold."
     },
     "input.ReadableKeys.keyNames.A": {
@@ -2751,7 +2751,7 @@
     },
     "screens.CharacterScreen.tooltips.xp": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Progress to next player level.",
+        "localizedName": "Прогресс до следующего уровня.",
         "comment": ""
     },
     "screens.CharacterScreen.tooltips.gold": {
@@ -2766,12 +2766,12 @@
     },
     "stats.speed": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Speed",
+        "localizedName": "Скорость",
         "comment": "Used in the UI when Speed is displayed"
     },
     "stats.health": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Health",
+        "localizedName": "Здоровье",
         "comment": "Used in the UI when Health is displayed"
     },
     "stats.agility": {
@@ -2781,27 +2781,27 @@
     },
     "stats.defense": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Defense",
+        "localizedName": "Защита",
         "comment": "Used in the UI when Defense is displayed"
     },
     "stats.magic": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Magic",
+        "localizedName": "Магия",
         "comment": "Used in the UI when Magic is displayed"
     },
     "stats.attack": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Attack",
+        "localizedName": "Аттака",
         "comment": "Used in the UI when Attack is displayed"
     },
     "stats.attack power": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Attack Power",
+        "localizedName": "Сила аттаки",
         "comment": "Used in the UI when Attack Power is displayed"
     },
     "stats.armor class": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Armor Class",
+        "localizedName": "Класс брони",
         "comment": "Used in the UI when Armor Class is displayed"
     },
     "screens.OptionsGamepadScreen.title": {
