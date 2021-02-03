@@ -2,11 +2,11 @@
 	repeats: false,
 	messages: [
 		[
-			"Welcome back.",
-			"I have some more scrolls prepared, if you're in need of some arcane intervention."
+			"С возвращением.",
+			"У меня приготовлено еще несколько свитков, если вам нужно какое-то тайное вмешательство."
 		],
 		[
-			"I have some more scrolls prepared, if you're in need of some arcane intervention."
+			"Я приготовил еще несколько свитков, если тебе понадобится какое-то тайное вмешательство."
 		]
 	]
 }
