@@ -2,14 +2,14 @@
 	repeats: true,
 	messages: [
 		[
-			"Notes on Battle, Third Edition
+			"Заметки о битве, Третье издание
 
-			1: A focused attack will always hit, even in battle a little planning goes a long way.",
-			"(focus an attack by holding down the attack button until fully charged, then release)",
-			"2: Take stock of your belongings before charging ahead. put things on a belt for easy access in battle.",
-			"(drag items to your belt at the top of the screen for quick access)",
-			"3: Always have an exit, and know where you are. keep a map to avoid getting lost.",
-			"(use your map and minimap to view where you have been already, and where to go next)"
+			1: Целенаправленная атака всегда будет эффективнее. В бою даже небольшое планирование имеет большое значение.",
+			"(сфокусируйте атаку, удерживая нажатой кнопку атаки до полной зарядки, а затем отпустите)",
+			"2: Прежде чем броситься в бой, осмотрите свои вещи. Наденьте на пояс все необходимое для быстрого доступа в бою.",
+			"(перетащите предметы на пояс в верхней части экрана для быстрого доступа к ним)",
+			"3: Всегда знайте где вы находитесь и куда можно отсупить. Сверяйтесь с картой, чтобы не заблудиться.",
+			"(используйте свою карту и миникарту, чтобы увидеть, где вы уже были и куда идти дальше)"
 		]
 	]
 }

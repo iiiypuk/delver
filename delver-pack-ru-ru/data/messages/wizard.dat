@@ -2,13 +2,13 @@
 	repeats: false,
 	messages: [
 		[
-			"Hello traveler. I didn't see you arrive.",
-			"This place has always been a beacon for those properly attuned. Do you feel it too?"
-			"For the more magically inclined, such as myself, this is a great place to enchant scrolls and artifacts.",
-			"I have some scrolls prepared that I could part with, for the right price. Otherwise, please let me return to my meditations."
+			"Привет, путник. Я не видел, как вы сюда прибыли.",
+			"Это место всегда было маяком для тех, кто правильно настроен. Ты тоже это чувствуешь?"
+			"Для более склонных к магии, таких как я, это отличное место, чтобы зачаровать свитки и артефакты.",
+			"У меня есть несколько свитков, с которыми я мог бы расстаться за хорошую цену. В противном случае, пожалуйста, позвольте мне вернуться к медитации."
 		],
 		[
-			"I have some more scrolls prepared that I could part with, for the right price."
+			"У меня есть еще несколько свитков, с которыми я мог бы расстаться за хорошую цену."
 		]
 	]
 }

@@ -46,7 +46,7 @@
     },
     "screens.MainMenuScreen.eraseSaveWarning": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Are you sure you want to delete this save file?",
+        "localizedName": "Вы уверены, что хотите удалить этот файл сохранения?",
         "comment": "Text shown in the modal when you are erasing a save."
     },
     "screens.MainMenuScreen.infoSaveSlot": {
@@ -186,7 +186,7 @@
     },
     "screens.OptionsScreen.readableActions.ATTACK": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "АТТАКА",
+        "localizedName": "АТАКА",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.DROP": {
@@ -411,7 +411,7 @@
     },
     "screens.GameOverScreen.tutorialText1": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Death was not the end,\nit was a beginning.",
+        "localizedName": "Смерть не была концом,\nэто было начало.",
         "comment": "Shown on the game over screen once."
     },
     "screens.GameOverScreen.tutorialText2": {
@@ -466,42 +466,42 @@
     },
     "overlays.LevelUpOverlay.levelUpLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Level Up!",
+        "localizedName": "Уровень повышен!",
         "comment": ""
     },
     "overlays.LevelUpOverlay.chooseYourFateLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Choose your fate",
+        "localizedName": "Выбери свою судьбу",
         "comment": ""
     },
     "overlays.LevelUpOverlay.ATTACK": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "+1 ATTACK",
+        "localizedName": "АТАКА +1",
         "comment": "Shown at the top of the level up card."
     },
     "overlays.LevelUpOverlay.SPEED": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "+1 SPEED",
+        "localizedName": "СКОРОСТЬ +1",
         "comment": "Shown at the top of the level up card."
     },
     "overlays.LevelUpOverlay.HEALTH": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "+1 HEALTH",
+        "localizedName": "ЗДОРОВЬЕ +1",
         "comment": "Shown at the top of the level up card."
     },
     "overlays.LevelUpOverlay.MAGIC": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "+1 MAGIC",
+        "localizedName": "МАГИЯ +1",
         "comment": "Shown at the top of the level up card."
     },
     "overlays.LevelUpOverlay.AGILITY": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "+1 AGILITY",
+        "localizedName": "ЛОВКОСТЬ +1",
         "comment": "Shown at the top of the level up card."
     },
     "overlays.LevelUpOverlay.DEFENSE": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "+1 DEFENSE",
+        "localizedName": "ЗАЩИТА +1",
         "comment": "Shown at the top of the level up card."
     },
     "overlays.MessageOverlay.nextButton": {
@@ -621,27 +621,27 @@
     },
     "entities.Item.itemConditionBroken": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Сломанный",
+        "localizedName": "(Сломанный)",
         "comment": ""
     },
     "entities.Item.itemConditionWorn": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Изношенный",
+        "localizedName": "(Изношенный)",
         "comment": ""
     },
     "entities.Item.itemConditionNormal": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Обычный",
+        "localizedName": "(Обычный)",
         "comment": ""
     },
     "entities.Item.itemConditionFine": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Хороший",
+        "localizedName": "(Хороший)",
         "comment": ""
     },
     "entities.Item.itemConditionExcellent": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Отличный",
+        "localizedName": "(Отличный)",
         "comment": ""
     },
     "entities.Item.mobileUseMessageText": {
@@ -691,7 +691,7 @@
     },
     "entities.Item.modificationInfoAttackText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Аттака",
+        "localizedName": "Атака",
         "comment": ""
     },
     "entities.Item.modificationInfoKnockbackText": {
@@ -701,17 +701,17 @@
     },
     "entities.Item.modificationInfoAttackSpeedText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Скорость аттаки",
+        "localizedName": "Скорость атаки",
         "comment": ""
     },
     "entities.Item.modificationInfoMagicResistText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Magic Resist",
+        "localizedName": "Сопротивление магии",
         "comment": ""
     },
     "entities.Player.mobileUseText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "USE",
+        "localizedName": "ИСПОЛЬЗОВАТЬ",
         "comment": "Text shown on a mobile device in place of a key binding."
     },
     "entities.Player.getItemText": {
@@ -1636,12 +1636,12 @@
     },
     "items.Potion.maxHealDisplayText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "You feel restored",
+        "localizedName": "Вы чувствуете себя выздоровевшим.",
         "comment": "Text shown when potion is drank. Health is completely restored."
     },
     "items.Potion.restoreDisplayText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Yum",
+        "localizedName": "Ням",
         "comment": "Text shown when potion is drank. Used for cola."
     },
     "items.Potion.magicShieldDisplayText": {
@@ -1816,37 +1816,37 @@
     },
     "statuseffects.DrunkEffect.defaultNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Disoriented",
+        "localizedName": "Дизориентация",
         "comment": ""
     },
     "statuseffects.InvisibilityEffect.defaultNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Invisible",
+        "localizedName": "Невидимость",
         "comment": ""
     },
     "statuseffects.LevitateEffect.defaultNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Levitate",
+        "localizedName": "Левитация",
         "comment": ""
     },
     "statuseffects.BurningEffect.defaultNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Burning",
+        "localizedName": "Горение",
         "comment": ""
     },
     "statuseffects.ParalyzeEffect.defaultNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Paralyze",
+        "localizedName": "Паралич",
         "comment": ""
     },
     "statuseffects.PoisonEffect.defaultNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Poison",
+        "localizedName": "Отравление",
         "comment": ""
     },
     "statuseffects.RestoreHealthEffect.defaultNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Restore Health",
+        "localizedName": "Лечение",
         "comment": ""
     },
     "statuseffects.SlowEffect.defaultNameText": {
@@ -1856,7 +1856,7 @@
     },
     "statuseffects.SpeedEffect.defaultNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Haste",
+        "localizedName": "Спешка",
         "comment": ""
     },
     "statuseffects.StatusEffect.defaultNameText": {
@@ -1886,7 +1886,7 @@
     },
     "triggers.Trigger.useVerbs.ENTER DUNGEON": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "ENTER DUNGEON",
+        "localizedName": "ВХОД В ПОДЗЕМЕЛЬЕ",
         "comment": ""
     },
     "triggers.Trigger.useVerbs.SHOP": {
@@ -1936,87 +1936,87 @@
     },
     "Iron spiked mace": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Iron spiked mace",
+        "localizedName": "Железный моргенштерн",
         "comment": ""
     },
     "Steel dagger": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Steel dagger",
+        "localizedName": "Стальной кинжал",
         "comment": ""
     },
     "Steel shortsword": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Steel shortsword",
+        "localizedName": "Стальной короткий меч",
         "comment": ""
     },
     "Iron hammer": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Iron hammer",
+        "localizedName": "Железный молот",
         "comment": ""
     },
     "Steel mace": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Steel mace",
+        "localizedName": "Стальная булава",
         "comment": ""
     },
     "Steel spiked mace": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Steel spiked mace",
+        "localizedName": "Стальной моргенштерн",
         "comment": ""
     },
     "Steel sword": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Steel sword",
+        "localizedName": "Стальной меч",
         "comment": ""
     },
     "Steel hammer": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Steel hammer",
+        "localizedName": "Стальной молот",
         "comment": ""
     },
     "Engraved dagger": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Engraved dagger",
+        "localizedName": "Engraved кинжал",
         "comment": ""
     },
     "Engraved shortsword": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Engraved shortsword",
+        "localizedName": "Engraved короткий меч",
         "comment": ""
     },
     "Engraved sword": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Engraved sword",
+        "localizedName": "Engraved меч",
         "comment": ""
     },
     "Gilded mace": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Gilded mace",
+        "localizedName": "Gilded булава",
         "comment": ""
     },
     "Gilded spiked mace": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Gilded spiked mace",
+        "localizedName": "Gilded моргенштерн",
         "comment": ""
     },
     "Jeweled dagger": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Jeweled dagger",
+        "localizedName": "Драгоценный кинжал",
         "comment": ""
     },
     "Jeweled shortsword": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Jeweled shortsword",
+        "localizedName": "Драгоценный короткий меч",
         "comment": ""
     },
     "Jeweled sword": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Jeweled sword",
+        "localizedName": "Драгоценный меч",
         "comment": ""
     },
     "Gilded hammer": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Gilded hammer",
+        "localizedName": "Драгоценный молот",
         "comment": ""
     },
     "Shortbow": {
@@ -2026,7 +2026,7 @@
     },
     "ARROW": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "ARROW",
+        "localizedName": "СТРЕЛА",
         "comment": ""
     },
     "Composite Bow": {
@@ -2061,7 +2061,7 @@
     },
     "Skullcap": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Тюбетейка",
+        "localizedName": "Шлем",
         "comment": ""
     },
     "Buckler": {
@@ -2391,7 +2391,7 @@
     },
     "Scroll of Identify": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Scroll of Identify",
+        "localizedName": "Свиток идентификации",
         "comment": ""
     },
     "Scroll of Discern Reality": {
@@ -2546,32 +2546,32 @@
     },
     "Protected": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Protected",
+        "localizedName": "Защищенный",
         "comment": ""
     },
     "Blessed": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Blessed",
+        "localizedName": "Благословенный",
         "comment": ""
     },
     "Unholy": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Unholy",
+        "localizedName": "Нечестивый",
         "comment": ""
     },
     "Cursed": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Cursed",
+        "localizedName": "Проклятый",
         "comment": ""
     },
     "Light": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Light",
+        "localizedName": "Светящийся",
         "comment": ""
     },
     "Nimble": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Nimble",
+        "localizedName": "Шустрый",
         "comment": ""
     },
     "Fleet": {
@@ -2581,7 +2581,7 @@
     },
     "Heavy": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Heavy",
+        "localizedName": "Тяжелый",
         "comment": ""
     },
     "Unwieldly": {
@@ -2601,7 +2601,7 @@
     },
     "Demon's": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Demon's",
+        "localizedName": "Демонический",
         "comment": ""
     },
     "Fighter's": {
@@ -2731,7 +2731,7 @@
     },
     "screens.CharacterScreen.tooltips.agility": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Increases attack speed and movement speed while charging an attack.",
+        "localizedName": "Увеличивает скорость атаки и скорость передвижения во время зарядки атаки.",
         "comment": ""
     },
     "screens.CharacterScreen.tooltips.attack power": {
@@ -2791,12 +2791,12 @@
     },
     "stats.attack": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Аттака",
+        "localizedName": "Атака",
         "comment": "Used in the UI when Attack is displayed"
     },
     "stats.attack power": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Сила аттаки",
+        "localizedName": "Сила атаки",
         "comment": "Used in the UI when Attack Power is displayed"
     },
     "stats.armor class": {
