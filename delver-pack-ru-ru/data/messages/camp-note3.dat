@@ -2,8 +2,8 @@
 	repeats: true,
 	messages: [
 		[
-			"The others went inside, against my arguments to proceed more cautiously. I fear for the worst. The only thing to do now is to wait for their return.",
-			"No word yet from the rest but I've been trying to continue my studies in their absence. So far nothing seems fixed here, no observations have remained stable."
+			"Остальные вошли внутрь, вопреки моим доводам действовать осторожнее. Я боюсь самого худшего. Единственное, что теперь остается, - это ждать их возвращения.",
+			"От остальных пока ничего не слышно, но я пытаюсь продолжить учебу в их отсутствие. Пока что здесь ничего не наблюдается, ничего не осталось стабильным."
 		]
 	]
 }

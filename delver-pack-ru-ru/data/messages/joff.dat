@@ -2,12 +2,12 @@
 	repeats: false,
 	messages: [
 		[
-			"Hey adventurer! Are you planning on going into those ruins? It's dangerous!",
-			"If I were you, I'd want to be stocked up on supplies before going into that place...",
-			"Thankfully, your pal Joff here sells everything you could possibly need!"
+			"Эй, авантюрист! Ты собираешься отправиться в эти руины? Это опасно!",
+			"На вашем месте я бы хотел запастись припасами перед тем, как отправиться в это место ..",
+			"К счастью, ваш приятель Джофф продает здесь все, что вам может понадобиться!"
 		],
 		[
-			"Fortune favors the prepared! Supplies are limited."
+			"Удача благоволит подготовленных! Запасы ограничены."
 		]
 	]
 }

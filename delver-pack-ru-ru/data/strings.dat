@@ -1551,7 +1551,7 @@
     },
     "items.Elixer.defaultNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Strange Elixer",
+        "localizedName": "Странный эликсир",
         "comment": ""
     },
     "items.Food.defaultNameText": {
@@ -1886,7 +1886,7 @@
     },
     "triggers.Trigger.useVerbs.ENTER DUNGEON": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "ВХОД В ПОДЗЕМЕЛЬЕ",
+        "localizedName": "ВОЙТИ В ПОДЗЕМЕЛЬЕ",
         "comment": ""
     },
     "triggers.Trigger.useVerbs.SHOP": {
@@ -2686,7 +2686,7 @@
     },
     "Vapid": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Vapid",
+        "localizedName": "Плоский",
         "comment": ""
     },
     "Mage's": {

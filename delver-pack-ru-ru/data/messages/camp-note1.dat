@@ -2,8 +2,8 @@
 	repeats: true,
 	messages: [
 		[
-			"It's right where they said it was, these look like old mage empire ruins. Seems likely from what's left anyway.",
-			"Rumor says that in their constant striving for more power, they made their own undoing here. I say, more for us. -N"
+			"Это именно то место, как они рассказывали. Похоже на руины старой империи магов. Во всяком случае, судя по тому, что осталось.",
+			"Ходят слухи, что в своем постоянном стремлении к большей власти они сами себя здесь погубили. Я говорю, больше для нас. -N"
 		]
 	]
 }

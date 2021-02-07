@@ -1,10 +1,10 @@
 {
 	messages: [
 		[
-			"The inscription is too worn to make out."
+			"Надпись слишком потерта, чтобы ее разобрать."
 		],
 		[
-			"Who was this?"
+			"Кто это был?"
 		]
 	]
 }
