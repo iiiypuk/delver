@@ -11,6 +11,7 @@
 * camp_note1.dat
 * camp_note2.dat
 * campfireguy.dat
+* campfireguy2.dat
 * headstone.dat
 * tuttorial_note1.dat
 * joff.dat
@@ -24,7 +25,6 @@
 *Not translated:*
 * breach.dat
 * camp_note4.dat
-* campfireguy2.dat
 * campfireguy3.dat
 * campfireguy4.dat
 * campfireguy5.dat
@@ -56,6 +56,7 @@
 * Level (в инвентаре)
 * {0} to {1} dmg
 * {0} AC
+* Current: {0} (на экране распределение скилл поинтов)
 * LOADING (после смерти в обучении)
 
 *Actions*
@@ -76,6 +77,12 @@
 * Gold candlestick
 * Cup
 * Arrows
+* Greater Ice wand (Строка есть, но перевод не тянется) `(Большой ледяной жезл)`
 
 *Chars*
 * PET `(ПИТОМЕЦ) or (СОБАКА)`
+
+## Castle note
+> We've found some intact libraries but the intact books are written in something that looks like Oldhand, translation will be slow going.
+
+Что значит Oldhand?

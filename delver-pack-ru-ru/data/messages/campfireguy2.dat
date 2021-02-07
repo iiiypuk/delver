@@ -2,12 +2,12 @@
 	repeats: false,
 	messages: [
 		[
-			"You're back! There is more to you than it appears it seems.",
-			"Our records seem to indicate that the inhabitants of this place exported a unique crystal, and this business made them extremely wealthy.",
-			"Did you find those mines? I would expect there to be quite a large network of them."
+			"Ты вернулся! В тебе есть нечто большее, чем кажется.",
+			"Судя по нашим записям, жители этого места экспортировали уникальный кристалл, и этот бизнес сделал их чрезвычайно богатыми.",
+			"Вы нашли эти шахты? Я бы ожидал, что у них будет довольно большая сеть."
 		],
 		[
-			"Did you find the mines? I would expect there to be quite a large network of them."
+			"Вы нашли шахты? Я бы ожидал, что их будет довольно большая сеть."
 		]
 	]
 }

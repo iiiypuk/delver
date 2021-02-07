@@ -1661,7 +1661,7 @@
     },
     "items.Potion.ironSkinStatusEffectNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Iron Skin",
+        "localizedName": "Железная кожа",
         "comment": "Text shown in the status display for the effect."
     },
     "items.Potion.paralyzeDisplayText": {
@@ -1706,7 +1706,7 @@
     },
     "items.Potion.ironSkinNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Iron Skin",
+        "localizedName": "Железная кожа",
         "comment": ""
     },
     "items.Potion.paralyzeNameText": {
@@ -2161,7 +2161,7 @@
     },
     "Ring of Speed": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Ring of Speed",
+        "localizedName": "Кольцо скорости",
         "comment": ""
     },
     "Platemail": {
@@ -2476,7 +2476,7 @@
     },
     "of Force": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of Force",
+        "localizedName": "силы",
         "comment": ""
     },
     "of Biting": {
@@ -2711,7 +2711,7 @@
     },
     "screens.CharacterScreen.tooltips.magic": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Adds additional charges and damage to magic wands.",
+        "localizedName": "Добавляет дополнительные заряды и урон волшебным жезлам.",
         "comment": ""
     },
     "screens.CharacterScreen.tooltips.speed": {

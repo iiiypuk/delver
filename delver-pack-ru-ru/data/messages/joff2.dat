@@ -2,11 +2,11 @@
 	repeats: false,
 	messages: [
 		[
-			"Hey adventurer, Didn't you go into those ruins?",
-			"Anyways, welcome back! You better stock up while you are here."
+			"Эй, авантюрист, разве не ты заходил в эти руины?",
+			"В любом случае, с возвращением! Тебе лучше запастись, пока ты здесь."
 		],
 		[
-			"Fortune favors the prepared! Supplies are limited."
+			"Удача благоволит подготовленных! Запасы ограничены."
 		]
 	]
 }
