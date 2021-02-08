@@ -63,6 +63,7 @@
 * _(Floors names)_
 * A secret had been ...!
 * READ `(Прочесть)`
+* Enchanted (на предмете после использования свитка зачарования)
 
 *Items*
 * Scroll of Blizzard (возможно scroll of Freezing)

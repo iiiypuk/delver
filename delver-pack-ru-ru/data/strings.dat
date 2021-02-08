@@ -586,7 +586,7 @@
     },
     "entities.Door.stuckText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "STUCK",
+        "localizedName": "ЗАКЛИНИЛО",
         "comment": "Text shown when a door is stuck shut, and can be broken open."
     },
     "entities.Door.unlockedText": {
@@ -726,7 +726,7 @@
     },
     "entities.Player.exitDungeonText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "{0}: EXIT DUNGEON",
+        "localizedName": "{0}: ПОКИНУТЬ ПОДЗЕМЕЛЬЕ",
         "comment": "Text shown when player is looking at the dungeon exit. {0} is the key binding."
     },
     "entities.Player.weaponAttackText": {
@@ -741,12 +741,12 @@
     },
     "entities.Stairs.direction.UP": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "UP",
+        "localizedName": "ПОДНЯТЬСЯ",
         "comment": "Text shown when a player is looking at the up stairs."
     },
     "entities.Stairs.direction.DOWN": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "DOWN",
+        "localizedName": "СПУСТИТЬСЯ",
         "comment": "Text shown when a player is looking at the down stairs."
     },
     "entities.Trigger.defaultUseVerb": {
@@ -2071,12 +2071,12 @@
     },
     "Quilted leather armor": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Quilted leather armor",
+        "localizedName": "Стеганые кожаные доспехи",
         "comment": ""
     },
     "Quilted leather pants": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Quilted leather pants",
+        "localizedName": "Стеганые кожаные поножи",
         "comment": ""
     },
     "Iron cap": {
@@ -2086,17 +2086,17 @@
     },
     "Ring of Protection": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Ring of Protection",
+        "localizedName": "Кольцо защиты",
         "comment": ""
     },
     "Amulet of Protection": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Amulet of Protection",
+        "localizedName": "Амулет защиты",
         "comment": ""
     },
     "Amulet of Health": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Amulet of Health",
+        "localizedName": "Амулет здоровья",
         "comment": ""
     },
     "Ring mail": {
@@ -2131,17 +2131,17 @@
     },
     "Round Shield": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Round Shield",
+        "localizedName": "Круглый щит",
         "comment": ""
     },
     "Amulet of Speed": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Amulet of Speed",
+        "localizedName": "Амулет скорости",
         "comment": ""
     },
     "Ring of Health": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Ring of Health",
+        "localizedName": "Кольцо здоровья",
         "comment": ""
     },
     "Steel mail": {
@@ -2381,7 +2381,7 @@
     },
     "Scroll of Enchant Weapon": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Scroll of Enchant Weapon",
+        "localizedName": "Свиток зачарованния оружия",
         "comment": ""
     },
     "Scroll of Enchant Armor": {
@@ -2820,7 +2820,7 @@
     },
     "meat.description": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Of unknown origin but looks edible."
+        "localizedName": "Неизвестного происхождения, но выглядит съедобно."
     },
     "steak.description": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
