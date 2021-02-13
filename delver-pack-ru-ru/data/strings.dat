@@ -201,12 +201,12 @@
     },
     "screens.OptionsScreen.readableActions.ITEM NEXT": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "СЛЕДУЮЩИЙ ПРЕДМЕТ",
+        "localizedName": "СЛЕД. ПРЕДМЕТ",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.ITEM PREVIOUS": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "ПРЕДЫДУЩИЙ ПРЕДМЕТ",
+        "localizedName": "ПРЕД. ПРЕДМЕТ",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.MAP": {
@@ -236,17 +236,17 @@
     },
     "screens.OptionsScreen.readableActions.TURN LEFT": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "TURN LEFT",
+        "localizedName": "ПОВОРОТ ВЛЕВО",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.TURN RIGHT": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "TURN RIGHT",
+        "localizedName": "ПОВОРОТ ВПРАВО",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.LOOK UP": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "ПОСМОТРЕТЬ НАВЕРХ",
+        "localizedName": "ПОСМОТРЕТЬ ВВЕРХ",
         "comment": "Label for key bind action."
     },
     "screens.OptionsScreen.readableActions.LOOK DOWN": {
@@ -281,42 +281,42 @@
     },
     "screens.OptionsInputScreen.headerLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Input Options",
+        "localizedName": "Настройки ввода",
         "comment": "Text for the input options screen title."
     },
     "screens.OptionsScreen.lookXLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Look X",
+        "localizedName": "Обзор по X",
         "comment": "Label for the mouse x-axis sensitivity slider."
     },
     "screens.OptionsScreen.lookYLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Look Y",
+        "localizedName": "Обзор по Y",
         "comment": "Label for the mouse y-axis sensitivity slider."
     },
     "screens.OptionsScreen.invertLookLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Invert Look",
+        "localizedName": "Инвертировать обзор",
         "comment": "Label for the invert look toggle."
     },
     "screens.OptionsScreen.mouseButton1Label": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Mouse Button 1",
+        "localizedName": "Левая кнопка мыши",
         "comment": "Label for mouse button. Used for assigning to bindings."
     },
     "screens.OptionsScreen.mouseButton2Label": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Mouse Button 2",
+        "localizedName": "Правая кнопка мыши",
         "comment": "Label for mouse button. Used for assigning to bindings."
     },
     "screens.OptionsScreen.mouseButton3Label": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Mouse Button 3",
+        "localizedName": "Средняя кнопка мыши",
         "comment": "Label for mouse button. Used for assigning to bindings."
     },
     "screens.OptionsScreen.mouseScrollLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Mouse Scroll",
+        "localizedName": "Прокрутка мышью",
         "comment": "Label for scroll wheel toggle."
     },
     "screens.OptionsKeysScreen.keyboardControlsLabel": {
@@ -1636,7 +1636,7 @@
     },
     "items.Potion.maxHealDisplayText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Вы чувствуете себя выздоровевшим.",
+        "localizedName": "Вы чувствуете себя лучше.",
         "comment": "Text shown when potion is drank. Health is completely restored."
     },
     "items.Potion.restoreDisplayText": {
@@ -1691,12 +1691,12 @@
     },
     "items.Potion.restorationNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Restoration",
+        "localizedName": "Восстановление",
         "comment": ""
     },
     "items.Potion.colaNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Cola",
+        "localizedName": "Кола",
         "comment": ""
     },
     "items.Potion.magicShieldNameText": {
@@ -1756,52 +1756,52 @@
     },
     "items.Weapon.damageType.PHYSICAL": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "DMG",
+        "localizedName": "ФИЗИЧЕСКОГО УРОНА",
         "comment": ""
     },
     "items.Weapon.damageType.MAGIC": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "MAGIC",
+        "localizedName": "МАГИЕЙ",
         "comment": ""
     },
     "items.Weapon.damageType.FIRE": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "FIRE",
+        "localizedName": "ОГНЕМ",
         "comment": ""
     },
     "items.Weapon.damageType.ICE": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "ICE",
+        "localizedName": "МОРОЗА",
         "comment": ""
     },
     "items.Weapon.damageType.LIGHTNING": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "LIGHTNING",
+        "localizedName": "МОЛНИЕЙ",
         "comment": ""
     },
     "items.Weapon.damageType.POISON": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "POISON",
+        "localizedName": "ОТРАВЛЕНИЯ",
         "comment": ""
     },
     "items.Weapon.damageType.HEALING": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "HEALING",
+        "localizedName": "ИСЦЕЛЕНИЯ",
         "comment": ""
     },
     "items.Weapon.damageType.PARALYZE": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "PARALYZE",
+        "localizedName": "ПАРАЛИЧА",
         "comment": ""
     },
     "items.Weapon.damageType.VAMPIRE": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "VAMPYRIC",
+        "localizedName": "ВАМПИРИЗМА",
         "comment": ""
     },
     "items.Weapon.damageRangeText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "{0} to {1} {2}",
+        "localizedName": "от {0} до {1} {2}",
         "comment": "{0} is the minimum damage. {1} is the maximum damage. {2} is the damage type."
     },
     "items.Weapon.elementalDamageText": {
@@ -2336,7 +2336,7 @@
     },
     "Scroll of Teleport": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Свиток телепорта",
+        "localizedName": "Свиток телепортации",
         "comment": ""
     },
     "Scroll of Flame": {
@@ -2366,7 +2366,7 @@
     },
     "Scroll of Greater Health": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Scroll of Greater Health",
+        "localizedName": "Свиток повышенного здоровья",
         "comment": ""
     },
     "Scroll of Resist Magic": {
@@ -2531,17 +2531,17 @@
     },
     "Quick": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Quick",
+        "localizedName": "Быстрый",
         "comment": ""
     },
     "Balanced": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Balanced",
+        "localizedName": "Сбалансированный",
         "comment": ""
     },
     "Glowing": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Glowing",
+        "localizedName": "Пылающий",
         "comment": ""
     },
     "Protected": {
@@ -2576,7 +2576,7 @@
     },
     "Fleet": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Fleet",
+        "localizedName": "Быстрый",
         "comment": ""
     },
     "Heavy": {
@@ -2828,26 +2828,26 @@
     },
     "ale.description": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Might have gone bad. Still smells of hops."
+        "localizedName": "Возможно, все пошло плохо. Все еще пахнет хмелем."
     },
     "bread.description": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Stale but filling."
+        "localizedName": "Черствый, но сытный."
     },
     "cheese.description": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Sharp and pungent."
+        "localizedName": "Резкий и терпкий."
     },
     "message.soulbound": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "A warm feeling touches your soul."
+        "localizedName": "Теплое чувство касается вашей души."
     },
     "message.bagupgrade": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Your bag size increased!"
+        "localizedName": "Размер вашей сумки увеличился!"
     },
     "message.beltupgrade": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Your belt size increased!"
+        "localizedName": "Размер вашего пояса увеличился!"
     }
 }

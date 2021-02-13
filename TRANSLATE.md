@@ -13,7 +13,10 @@
 * campfireguy.dat
 * campfireguy2.dat
 * headstone.dat
+* hoodie.dat
 * tuttorial_note1.dat
+* jeff.dat
+* jeff2.dat
 * joff.dat
 * wizzard.dat
 * wizzard2.dat
@@ -29,11 +32,8 @@
 * campfireguy4.dat
 * campfireguy5.dat
 * end.dat
-* hoodie.dat
 * hoodie2.dat
 * hoodiw_sewer.dat
-* jeff.dat
-* jeff2.dat
 * jeff3.dat
 * joff2.dat
 * joff3.dat
@@ -42,11 +42,10 @@
 
 ## Непонятно
 * Slow - как правильно перевести в контексте бата со счётчиком?!
-* Fleet - (вид предмета)
 * Scroll of Identify
 * Unholy - строка есть, но перевод из неё не подтягивается
 * Vapid - Плоский Круглый щит?
-
+* Heater Shield - Нагревательный щит?!
 
 ## Строки, которые не переводятся
 *UI*
@@ -58,12 +57,19 @@
 * {0} AC
 * Current: {0} (на экране распределение скилл поинтов)
 * LOADING (после смерти в обучении)
+* Soulbound {Bag,Belt} Expansion (in the store)
+* Mods (button in menu)
+* Manage mods (menu window)
+* ATTACK, MAP, DROP, etc (mouse button action)
 
 *Actions*
 * _(Floors names)_
 * A secret had been ...!
 * READ `(Прочесть)`
 * Enchanted (на предмете после использования свитка зачарования)
+* Buy for {0} Gold (in shop)
+* [Yes] and [No] button (in the shop)
+* USE (lever)
 
 *Items*
 * Scroll of Blizzard (возможно scroll of Freezing)
@@ -79,6 +85,7 @@
 * Cup
 * Arrows
 * Greater Ice wand (Строка есть, но перевод не тянется) `(Большой ледяной жезл)`
+* Enchanted (parameter)
 
 *Chars*
 * PET `(ПИТОМЕЦ) or (СОБАКА)`
