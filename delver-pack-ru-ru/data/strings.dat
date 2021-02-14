@@ -1761,27 +1761,27 @@
     },
     "items.Weapon.damageType.MAGIC": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "МАГИЕЙ",
+        "localizedName": "УРОНА МАГИЕЙ",
         "comment": ""
     },
     "items.Weapon.damageType.FIRE": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "ОГНЕМ",
+        "localizedName": "УРОНА ОГНЕМ",
         "comment": ""
     },
     "items.Weapon.damageType.ICE": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "МОРОЗА",
+        "localizedName": "УРОНА ХОЛОДОМ",
         "comment": ""
     },
     "items.Weapon.damageType.LIGHTNING": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "МОЛНИЕЙ",
+        "localizedName": "УДАРА МОЛНИЕЙ",
         "comment": ""
     },
     "items.Weapon.damageType.POISON": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "ОТРАВЛЕНИЯ",
+        "localizedName": "УРОНА ЯДОМ",
         "comment": ""
     },
     "items.Weapon.damageType.HEALING": {
@@ -1801,7 +1801,7 @@
     },
     "items.Weapon.damageRangeText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "от {0} до {1} {2}",
+        "localizedName": "от {0} до {1} ед. {2}",
         "comment": "{0} is the minimum damage. {1} is the maximum damage. {2} is the damage type."
     },
     "items.Weapon.elementalDamageText": {
@@ -2246,17 +2246,17 @@
     },
     "Lesser missile wand": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Маленький missile жезл",
+        "localizedName": "Маленький реактивный жезл",
         "comment": ""
     },
     "Missile wand": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Missile жезл",
+        "localizedName": "Реактивный жезл",
         "comment": ""
     },
     "Greater missile wand": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Большой missile жезл",
+        "localizedName": "Большой реактивный жезл",
         "comment": ""
     },
     "Lesser fire wand": {
@@ -2371,12 +2371,12 @@
     },
     "Scroll of Resist Magic": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Scroll of Resist Magic",
+        "localizedName": "Свиток сопротивления магии",
         "comment": ""
     },
     "Scroll of Haste": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Scroll of Haste",
+        "localizedName": "Свиток ускорения",
         "comment": ""
     },
     "Scroll of Enchant Weapon": {
@@ -2386,7 +2386,7 @@
     },
     "Scroll of Enchant Armor": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Scroll of Enchant Armor",
+        "localizedName": "Свиток зачарования брони",
         "comment": ""
     },
     "Scroll of Identify": {
@@ -2626,62 +2626,62 @@
     },
     "of the Sloth": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of the Sloth",
+        "localizedName": "ленивца",
         "comment": ""
     },
     "of the Turtle": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of the Turtle",
+        "localizedName": "черепахи",
         "comment": ""
     },
     "of the Rabbit": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of the Rabbit",
+        "localizedName": "кролика",
         "comment": ""
     },
     "of the Snake": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of the Snake",
+        "localizedName": "змеи",
         "comment": ""
     },
     "of the Eagle": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of the Eagle",
+        "localizedName": "орла",
         "comment": ""
     },
     "of Skill": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of Skill",
+        "localizedName": "навыков",
         "comment": ""
     },
     "of Precision": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of Precision",
+        "localizedName": "точности",
         "comment": ""
     },
     "of intellect": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of intellect",
+        "localizedName": "интелекта",
         "comment": ""
     },
     "of the Mind": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of the Mind",
+        "localizedName": "разума",
         "comment": ""
     },
     "of Magic": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of Magic",
+        "localizedName": "магии",
         "comment": ""
     },
     "Trite": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Trite",
+        "localizedName": "Банальный",
         "comment": ""
     },
     "Insipid": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Insipid",
+        "localizedName": "Безвкусный",
         "comment": ""
     },
     "Vapid": {
@@ -2706,7 +2706,7 @@
     },
     "screens.CharacterScreen.tooltips.health": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Увеличивает максимальное количество очков здоровья",
+        "localizedName": "Увеличивает максимальное количество очков здоровья.",
         "comment": ""
     },
     "screens.CharacterScreen.tooltips.magic": {
@@ -2716,17 +2716,17 @@
     },
     "screens.CharacterScreen.tooltips.speed": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Увеличивает скорость передвижения",
+        "localizedName": "Увеличивает скорость передвижения.",
         "comment": ""
     },
     "screens.CharacterScreen.tooltips.attack": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Increases attack power with melee and ranged weapons.",
+        "localizedName": "Увеличивает силу атаки ближнего и дальнего оружия.",
         "comment": ""
     },
     "screens.CharacterScreen.tooltips.defense": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Уменьшает количество урона, полученного при попадании",
+        "localizedName": "Уменьшает количество урона, полученного при попадании.",
         "comment": ""
     },
     "screens.CharacterScreen.tooltips.agility": {
