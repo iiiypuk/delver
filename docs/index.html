@@ -7,19 +7,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
 </head>
 <body>
   <div id="app">Пожалуйста, подождите...</div>
   <script>
     window.$docsify = {
       name: 'Русификатор Delver',
-      basePath: 'https://iiiypuk.github.io/delver-pack-ru-ru/',
-      repo: 'https://github.com/iiiypuk/delver-pack-ru-ru',
+      // basePath: 'https://iiiypuk.github.io/delver/',
+      repo: 'https://github.com/iiiypuk/delver',
       coverpage: true,
       onlyCover: true,
-      loadNavbar: true,
-      mergeNavbar: true,
+      loadNavbar: false,
+      mergeNavbar: false,
       loadSidebar: true,
       subMaxLevel: 2,
       auto2top: true
@@ -27,5 +27,12 @@
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- busuanzi statistics -->
+  <div id="statistics" style="display: none">
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span id="busuanzi_container_site_uv">UV <span id="busuanzi_value_site_uv"></span></span>
+    <span id="busuanzi_container_site_pv">PV <span id="busuanzi_value_site_pv"></span></span>
+  </div>
 </body>
 </html>
