@@ -1,13 +1,13 @@
 # Оглавление
-* [Как переводить и что к чему]()
-* [Список файлов](#список-файлов)
-* [Непонятно](#непонятно)
-* [Строки, которые не переводятся](#строки-которые-не-переводятся)
+* [Как переводить и что к чему](#Как-переводить-и-что-к-чему)
+* [Список файлов](#Список-файлов)
+* [Непонятно](#Непонятно)
+* [Строки, которые не переводятся](#Строки-которые-не-переводятся)
 
 ## Как переводить и что к чему
 
 ## Список файлов
-**Complete:**
+### Complete:
 * camp_note1.dat
 * camp_note2.dat
 * campfireguy.dat
@@ -21,11 +21,11 @@
 * wizzard.dat
 * wizzard2.dat
 
-**In compete:**
+### In compete:
 * credits.dat
 * camp_note3.dat
 
-**Not translated:**
+### Not translated:
 * breach.dat
 * camp_note4.dat
 * campfireguy3.dat
@@ -48,7 +48,7 @@
 * Heater Shield - Нагревательный щит?!
 
 ## Строки, которые не переводятся
-**UI**
+### UI
 * Limit FPS `Лимит FPS`
 * VSync `Вертикальня синхронизация`
 * Advanced Graphics Options (заголвок окна настроек)
@@ -62,7 +62,7 @@
 * Manage mods (menu window)
 * ATTACK, MAP, DROP, etc (mouse button action)
 
-**Actions**
+### Actions
 * _(Floors names)_
 * A secret had been ...!
 * READ `(Прочесть)`
@@ -71,7 +71,7 @@
 * [Yes] and [No] button (in the shop)
 * USE (lever)
 
-**Items**
+### Items
 * Scroll of Blizzard (возможно scroll of Freezing)
 * Scroll of Levitate
 * Scribbled Note
@@ -87,10 +87,10 @@
 * Greater Ice wand (Строка есть, но перевод не тянется) `(Большой ледяной жезл)`
 * Enchanted (parameter)
 
-**Chars**
+### Chars
 * PET `(ПИТОМЕЦ) or (СОБАКА)`
 
-**Castle note**
+### Castle note
 > We've found some intact libraries but the intact books are written in something that looks like Oldhand, translation will be slow going.
 
 Что значит Oldhand?
