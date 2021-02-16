@@ -1,7 +1,8 @@
 .venv/
+node_modules/
+package-lock.json
 
 *.*~
 
 delver/
 delver.jar
-
