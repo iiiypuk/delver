@@ -1556,17 +1556,17 @@
     },
     "items.Food.defaultNameText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Food",
+        "localizedName": "Еда",
         "comment": ""
     },
     "items.Food.eatFoodText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Yum",
+        "localizedName": "Ням",
         "comment": ""
     },
     "items.Food.drinkBoozeText": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "You feel warm",
+        "localizedName": "Стало тепло",
         "comment": ""
     },
     "items.Food.infoText": {
@@ -2396,7 +2396,7 @@
     },
     "Scroll of Discern Reality": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Scroll of Discern Reality",
+        "localizedName": "Свиток прояснения реальности",
         "comment": ""
     },
     "Skull": {
@@ -2491,22 +2491,22 @@
     },
     "of Burning": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of Burning",
+        "localizedName": "горения",
         "comment": ""
     },
     "of Ice": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of Ice",
+        "localizedName": "холода",
         "comment": ""
     },
     "of Blizzard": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of Blizzard",
+        "localizedName": "вьюги",
         "comment": ""
     },
     "of Paralyze": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of Paralyze",
+        "localizedName": "паралича",
         "comment": ""
     },
     "of the Arcane": {
@@ -2516,17 +2516,17 @@
     },
     "of Storm": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of Storm",
+        "localizedName": "бури",
         "comment": ""
     },
     "of the Tempest": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of the Tempest",
+        "localizedName": "бури",
         "comment": ""
     },
     "of the Worm": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "of the Worm",
+        "localizedName": "червя",
         "comment": ""
     },
     "Quick": {
@@ -2586,17 +2586,17 @@
     },
     "Unwieldly": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Unwieldly",
+        "localizedName": "Громоздкий",
         "comment": ""
     },
     "Coward's": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Coward's",
+        "localizedName": "Трусливый",
         "comment": ""
     },
     "Drunk's": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Drunk's",
+        "localizedName": "Пьяный",
         "comment": ""
     },
     "Demon's": {
@@ -2606,22 +2606,22 @@
     },
     "Fighter's": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Fighter's",
+        "localizedName": "Бойцовский",
         "comment": ""
     },
     "Brawler's": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Brawler's",
+        "localizedName": "Драчунский",
         "comment": ""
     },
     "Knight's": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Knight's",
+        "localizedName": "Рыцарский",
         "comment": ""
     },
     "King's": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "King's",
+        "localizedName": "Королевский",
         "comment": ""
     },
     "of the Sloth": {
