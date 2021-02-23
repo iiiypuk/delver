@@ -65,11 +65,13 @@
 ### Actions
 * _(Floors names)_
 * A secret had been ...!
+* Enter the Pit
 * READ `(Прочесть)`
 * Enchanted (на предмете после использования свитка зачарования)
 * Buy for {0} Gold (in shop)
 * [Yes] and [No] button (in the shop)
 * USE (lever)
+* It's doesn't budge (open big door in Lost City)
 
 ### Items
 * Scroll of Blizzard (возможно scroll of Freezing)
@@ -86,6 +88,8 @@
 * Arrows
 * Greater Ice wand (Строка есть, но перевод не тянется) `(Большой ледяной жезл)`
 * Enchanted (parameter)
+* SKULL, BONES (CAPS) (found in Pit)
+* Numidor (item type)
 
 ### Chars
 * PET `(ПИТОМЕЦ) or (СОБАКА)`

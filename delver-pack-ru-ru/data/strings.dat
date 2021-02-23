@@ -2101,12 +2101,12 @@
     },
     "Ring mail": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Ring mail",
+        "localizedName": "Кольчуга",
         "comment": ""
     },
     "Ring mail greaves": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Ring mail greaves",
+        "localizedName": "Кольчужные поножи",
         "comment": ""
     },
     "Iron pot": {
