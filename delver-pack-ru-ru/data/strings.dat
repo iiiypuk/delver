@@ -461,7 +461,7 @@
     },
     "screens.GameOverScreen.secretsStatLabel": {
         "class": "com.interrupt.dungeoneer.game.LocalizedString",
-        "localizedName": "Найдено секретов: ",
+        "localizedName": "НАЙДЕНО СЕКРЕТОВ: ",
         "comment": ""
     },
     "overlays.LevelUpOverlay.levelUpLabel": {
