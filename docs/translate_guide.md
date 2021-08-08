@@ -90,6 +90,7 @@
 * Enchanted (parameter)
 * SKULL, BONES (CAPS) (found in Pit)
 * Numidor (item type)
+* Rathorian Shield
 
 ### Chars
 * PET `(ПИТОМЕЦ) or (СОБАКА)`
